@@ -22,4 +22,4 @@ User credentials are stored in a file and verified during login.
 3. Choose register or login from menu
 
 ## Author
-Deepika
+Deepika R
